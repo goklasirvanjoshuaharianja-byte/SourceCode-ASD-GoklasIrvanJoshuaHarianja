@@ -28,17 +28,9 @@ Program ini adalah implementasi sederhana untuk mengelola data mahasiswa menggun
 
 ---
 
-## 🛠️ Struktur Data
 
-### Struct Mahasiswa
-```cpp
-struct Mahasiswa {
-    string nim;
-    string nama;
-    float ipk;
-};
 
-##🚀 Cara Menjalankan
+## 🚀 Cara Menjalankan
 1.Clone Repo
 git clone https://github.com/goklasirvanjoshuaharianja-byte/SourceCode-ASD-GoklasIrvanJoshuaHarianja.git
 cd SourceCode-ASD-GoklasIrvanJoshuaHarianja
@@ -51,7 +43,7 @@ g++ -std=c++11 mahasiswa_array.cpp -o mahasiswa
 mahasiswa.exe      # Windows
 
 
-##🔄 Rencana Pengembangan
+## 🔄 Rencana Pengembangan
 Berikut adalah rencana untuk mengembangkan program ini menggunakan materi yang sedang dipelajari saat ini:
 
 - Double Linked List: Mengganti Array dengan Double Linked List untuk data yang lebih fleksibel
@@ -61,11 +53,11 @@ Berikut adalah rencana untuk mengembangkan program ini menggunakan materi yang s
 - Delete Data: Menghapus data mahasiswa dengan NIM tertentu
 - File Handling: Menyimpan dan membaca data dari file .txt agar tidak hilang setelah program ditutup
 
-##📝 Catatan Pembelajaran
+## 📝 Catatan Pembelajaran
 
     "Array itu seperti kursi bioskop yang jumlahnya tetap. Kalau penuh, nggak bisa nambah kursi. Kalau Linked List, kita bisa nambah kursi kapan saja!"
 
-##📖 Referensi
+## 📖 Referensi
 
     Modul Kuliah Algoritma & Struktur Data - Institut Teknologi Sumatera
     LearnCpp.com - Arrays & Structs
